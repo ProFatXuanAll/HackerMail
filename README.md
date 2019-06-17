@@ -61,3 +61,5 @@ By creating templates for different topics, each mail will automatcially choose 
 |UI Flow|X|X|O|
 |**TOTAL**|16.6%|50%|100%|
 
+# APK download
+[click me](https://drive.google.com/file/d/1d-1D0TsUhBQehZuu3K3FqyECh2OsVJnH/view?usp=sharing)
