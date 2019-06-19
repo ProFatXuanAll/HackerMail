@@ -62,4 +62,4 @@ By creating templates for different topics, each mail will automatcially choose 
 |**TOTAL**|16.6%|50%|100%|
 
 # APK download
-[click me](https://drive.google.com/file/d/1d-1D0TsUhBQehZuu3K3FqyECh2OsVJnH/view?usp=sharing)
+[click me](https://drive.google.com/file/d/1TddXkahoW7U3ZLPS4y6ENnitVfboo-jv/view?usp=sharing)
